@@ -29,3 +29,8 @@
 ## Treat any String question as an array question
 
     - Strings are array of characters.
+
+## When you should use
+
+    - Pros: Fast lookups, Fast Push/pop, Ordered
+    - Cons: Slow inserts, Slow deletes, Fixed size(* if using static array)
