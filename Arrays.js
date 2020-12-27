@@ -14,7 +14,7 @@ console.log(strings);
 strings.pop(); // O(1)
 console.log(strings);
 
-// unshift(in JS): insert at the start of the array.
+// unshift(in JS): insert an  at the start of the array.
 strings.unshift("x"); // O(n); as this operation has to loop through everyting to move indexes.
 console.log(strings);
 // maybe not the best data structure for adding items at the beggining.
