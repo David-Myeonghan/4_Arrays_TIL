@@ -25,3 +25,7 @@
   **Static Array** is fixed in size. you need to specify the numver of elements the array will hold ahead of time.
 
   **Dynamic Array** allows us to copy and rebuild an array at a new location. In order to create more space, Copy entire list and paste it with more space on a new location.
+
+## Treat any String question as an array question
+
+    - Strings are array of characters.
